@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# What this Program does?
 
-You can use the [editor on GitHub](https://github.com/Speedmirage/Calculator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This program enables the user to choose a shape from a selected few to calculate their *area*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Things to Keep in Mind
 
-### Markdown
+1. You are free to enter UPPERCASE **and** lowercase characters when making you shape selection
+2. However, if your input does not contain any of the options provided by the program. *IT WILL QUIT ITSELF*
+3. You can only do **one** calculation at a time (will add support for loops later down the road)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to Run it?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Speedmirage/Calculator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. First, run [Area Calculator](https://repl.it/FDC9/0)
+2. Then, just follow the straighfoward directions given by the program
+3. Have fun & Enjoy!
