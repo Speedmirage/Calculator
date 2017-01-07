@@ -10,7 +10,7 @@ This program enables the user to choose a shape from a selected few to calculate
 
 ## How to Run it?
 
-1. First, run [Area Calculator](https://repl.it/FDC9/0)
+1. First, run [Area Calculator](https://repl.it/FDC9/1)
 2. Then, just follow the straighfoward directions given by the program
 3. Have fun & Enjoy!
 
